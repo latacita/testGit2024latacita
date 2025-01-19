@@ -10,4 +10,9 @@
  02     code bitacora.txt
  04     checkout -b "PrimeraRama"
  06     checkout -b "SegundaRama"
- 
+ 13     checkout SegundaRama
+ 14     La fusión de SegundaRama en PrimeraRama sería recursiva porque 
+        el commit Paso 05 está en PrimeraRama pero no en SegundaRama. 
+ 15     La fusión de PrimeraRama en master podría hacerse por fast-forward
+        porque el commit más avanzado de master es Paso 03 que está dentro 
+        de PrimeraRama
