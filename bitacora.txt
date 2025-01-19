@@ -9,3 +9,4 @@
  01     clone 
  02     code bitacora.txt
  04     checkout -b "PrimeraRama"
+ 11     checkout PrimeraRama
