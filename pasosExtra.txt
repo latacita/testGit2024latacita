@@ -1,0 +1,15 @@
+%%==================================================================%%
+%%                 Métodos de Desarrollo - Test de Git              %%
+%%==================================================================%%
+%% Alumno (Apellidos, Nombre): Sánchez Barreiro, Pablo              %%
+%%==================================================================%%
+
+ Paso   Acción                       Notas
+====== ============================ ================================
+ 22     push origin master           Da conflicto por fuera de sincronía
+ 22     pull origin master           Da conflicto en bitacora.txt. Se
+                                     selecciona el nombre correcto.
+ 22     add bicatora.txt
+ 22     commit 
+ 23     checkout SegundaRama
+ 24     se añade el archivo
