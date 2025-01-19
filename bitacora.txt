@@ -8,4 +8,12 @@
 ====== ============================ ================================
  01     clone 
  02     code bitacora.txt
- 
+ 08     push origin -u SegundaRama
+ 09     checkout master
+ 17     checkout PrimeraRama
+ 18     merge SegundaRama           Surgen conflictos, se aceptan ambos 
+                                    cambios y se reordena
+ 18     add bitacora.txt
+ 18     commit                                    
+ 19     checkout master    
+ 20     stash apply  
