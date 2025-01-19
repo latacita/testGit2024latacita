@@ -9,3 +9,5 @@
  01     clone 
  02     code bitacora.txt
  04     checkout -b "PrimeraRama"
+ 06     checkout -b "SegundaRama"
+ 
